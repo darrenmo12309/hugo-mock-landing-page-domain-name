@@ -1,1 +1,1 @@
-# hugo-mock-landing-page-2
+# hugo-mock-landing-page
