@@ -9,7 +9,7 @@ timeZone = 'Europe/London'
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
-theme = "jekyll-theme-minimal"
+theme = "hugo-bootstrap-theme"
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
