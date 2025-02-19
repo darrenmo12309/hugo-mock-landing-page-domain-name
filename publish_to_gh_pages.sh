@@ -63,7 +63,6 @@ fi
 
 # Syncing the gh-pages branch with the folder content
 rsync -av --delete --exclude '.git' "$FOLDER/" "$TMP_REPO_DIR/"
-
 cd "$TMP_REPO_DIR" || exit
 
 # Check if there are any changes. If so, commit and push them.
