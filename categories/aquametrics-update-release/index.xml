@@ -1,20 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AquaMetrics Update Release on AquaMetrics</title>
-    <link>https://darrenmo12309.github.io/hugo-mock-landing-page/categories/aquametrics-update-release/</link>
-    <description>Recent content in AquaMetrics Update Release on AquaMetrics</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Darren Mo</copyright>
-    <lastBuildDate>Thu, 13 Feb 2025 14:16:45 -0500</lastBuildDate>
-    <atom:link href="https://darrenmo12309.github.io/hugo-mock-landing-page/categories/aquametrics-update-release/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AquaMetrics 1.1.0</title>
-      <link>https://darrenmo12309.github.io/hugo-mock-landing-page/post/aquametrics-1.1/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://darrenmo12309.github.io/hugo-mock-landing-page/post/aquametrics-1.1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;Aquametrics_1.1.0.jpg&#34; alt=&#34;AquaMetrics&#34;&gt;&#xA;{ .img-fluid .mb-5 }&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;re excited to introduce Aquametrics 1.1.0: Crystal Clear, an update designed to make your aquatic analytics sharper, faster, and more insightful than ever!&lt;/p&gt;&#xA;&lt;p&gt;🌊 What’s New?&lt;/p&gt;&#xA;&lt;p&gt;🔹 Enhanced Water Quality Insights – More precise metrics for clarity, pH balance, and chemical composition.&lt;/p&gt;&#xA;&lt;p&gt;🔹 Real-Time Monitoring – Get faster and more accurate updates on water conditions.&lt;/p&gt;&#xA;&lt;p&gt;🔹 Improved UI &amp;amp; Visualization – Cleaner design, intuitive navigation, and better data representation.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AquaMetrics Update Release on AquaMetrics</title><link>https://darrenmo12309.github.io/hugo-mock-landing-page-autodeployed/categories/aquametrics-update-release/</link><description>Recent content in AquaMetrics Update Release on AquaMetrics</description><generator>Hugo</generator><language>en</language><copyright>Darren Mo</copyright><lastBuildDate>Mon, 24 Feb 2025 05:46:19 +0000</lastBuildDate><atom:link href="https://darrenmo12309.github.io/hugo-mock-landing-page-autodeployed/categories/aquametrics-update-release/index.xml" rel="self" type="application/rss+xml"/><item><title>AquaMetrics 1.1.0</title><link>https://darrenmo12309.github.io/hugo-mock-landing-page-autodeployed/post/aquametrics-1.1/</link><pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate><guid>https://darrenmo12309.github.io/hugo-mock-landing-page-autodeployed/post/aquametrics-1.1/</guid><description>&lt;p>&lt;img src="Aquametrics_1.1.0.jpg" alt="AquaMetrics">
+{ .img-fluid .mb-5 }&lt;/p>
+&lt;p>We&amp;rsquo;re excited to introduce Aquametrics 1.1.0: Crystal Clear, an update designed to make your aquatic analytics sharper, faster, and more insightful than ever!&lt;/p>
+&lt;p>🌊 What’s New?&lt;/p>
+&lt;p>🔹 Enhanced Water Quality Insights – More precise metrics for clarity, pH balance, and chemical composition.&lt;/p>
+&lt;p>🔹 Real-Time Monitoring – Get faster and more accurate updates on water conditions.&lt;/p>
+&lt;p>🔹 Improved UI &amp;amp; Visualization – Cleaner design, intuitive navigation, and better data representation.&lt;/p></description></item></channel></rss>
